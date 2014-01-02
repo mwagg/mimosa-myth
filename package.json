@@ -1,0 +1,31 @@
+{
+  "name": "mimosa-myth",
+  "version": "0.0.1-beta",
+  "homepage": "https://github.com/mwagg/mimosa-myth",
+  "author": "Mike Wagg",
+  "description": "A Myth integration plugin for Mimosa.",
+  "contributors": [
+    {
+      "name": "Mike Wagg",
+      "email": "michael@guerillatactics.co.uk"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwagg/mimosa-myth.git"
+  },
+  "keywords": [
+    "mimosa",
+    "mmodule",
+    "myth"
+  ],
+  "dependencies": {
+    "logmimosa": "0.6.0",
+    "myth": "~0.2.0"
+  },
+  "license": "MIT",
+  "main": "./src/index",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
