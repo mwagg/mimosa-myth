@@ -1,6 +1,6 @@
 {
   "name": "mimosa-myth",
-  "version": "0.0.1-beta",
+  "version": "0.0.1",
   "homepage": "https://github.com/mwagg/mimosa-myth",
   "author": "Mike Wagg",
   "description": "A Myth integration plugin for Mimosa.",
